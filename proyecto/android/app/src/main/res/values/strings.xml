@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Perfect_Rhyme</string>
+    <string name="title_activity_main">Perfect_Rhyme</string>
+    <string name="package_name">com.PerfectRhyme.app</string>
+    <string name="custom_url_scheme">com.PerfectRhyme.app</string>
+</resources>
